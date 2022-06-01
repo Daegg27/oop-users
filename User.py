@@ -11,7 +11,7 @@ class User:
     # 
 dalton = User("Dalton", "egglestondalton@yahoo.com", "WDLA12324AD", 22)
 michael = User("Michael", "feaW@gmail.com", "SF223AWDAD3", 22)
-Christopher = User("Christopher", 'giadawd@gmail.com', "WDA2323ADFA", 44)
+christopher = User("Christopher", 'giadawd@gmail.com', "WDA2323ADFA", 44)
 print(dalton)
 
 
